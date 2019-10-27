@@ -1,2 +1,13 @@
 # SJ-Portfolio
-This is Sarah Johnson's public portfolio for Telling Stories with Data at Carnegie Mellon
+This is Sarah Johnson's public portfolio for Telling Stories with Data at Carnegie Mellon University
+
+# About Me
+Hello! I'm Sarah Johnson (she/her/hers). I'm originally from Charlotte, North Carolina and moved to the midwest (for the first time) to attend THE Ohio State University. While there, I completed a Bachelor of Arts in Music with a concentration in French Horn performance. After graduation, I moved to Memphis, Tennessee and took a job as a Leadership Development Consultant for Kappa Delta Sorority. I lived out of two suitcases and traveled the country for a year working with college women, university officials, and advisors on recruitment strategies, risk management, real-estate, fundraising, and community engagement (ask me about some fun travel stories!). After my wild travel year, I moved back to the mid-west area to attend graduate school at Carnegie Mellon University to obtain a Master of Arts Management (MAM) degree through Heinz College. After graduation, I would like to stay and fundraise for college art programs as a gift officer, while still being able to travel the country and raise money for an industry that has taught me so much about myself and the world. 
+
+# What I hope to Learn
+I hope to learn tools that I can utilize for impact reporting and ways I can show relationship mapping. The non-profit industry is so congnizant to formulate programs that have significant impact to a community, but those organizations don't do a great job at showing that impact visually through data they've collected. I want to coorelate this to my hopeful career as a fundraiser so I can share with a donor ways in which their contributions impact a student's educational value and experience. I intern currently in the Advancement office at Carnegie Mellon and we are in the mist of launching a fundraising campaign to raise money for student support, professorships and scholarships. I want to utilize skills I've learned in this class to help convey key pieces of information for donors accross various backgrounds to help showcase the impact of their gift. 
+
+I also would love to learn how to utilize relationship mapping software if possible. I still volunteer for Kappa Delta as a Chapter Membership Specialist. Part of my role is to help show data given to me from the recruitment process and help strengthen connections within the local chapter. I have some ideas as to how to do this, but am really excited to learn and dive into ways to convey a more 'qualitative' data set quantitatively. 
+
+# Portfolio
+I will put all my nifty stuff right here on this website!
