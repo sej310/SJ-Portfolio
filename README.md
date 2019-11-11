@@ -2,6 +2,7 @@
 This is Sarah Johnson's public portfolio for Telling Stories with Data at Carnegie Mellon University
 
 [Data Visualization Homework #1](/dataviz2.md)
+
 [Critique by Design Homework 3 & 4](/critbydes.md)
 
 # About Me
