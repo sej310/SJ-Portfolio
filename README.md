@@ -3,7 +3,7 @@ This is Sarah Johnson's public portfolio for Telling Stories with Data at Carneg
 
 [Data Visualization Homework #1](/dataviz2.md)
 
-[Critique by Design Homework 3 & 4](/critbydes.md)
+[Critique by Design Homework 3 & 4](/critbydes)
 
 # About Me
 Hello! I'm Sarah Johnson (she/her/hers). I'm originally from Charlotte, North Carolina and moved to the midwest (for the first time) to attend THE Ohio State University. While there, I completed a Bachelor of Arts in Music with a concentration in French Horn performance. After graduation, I moved to Memphis, Tennessee and took a job as a Leadership Development Consultant for Kappa Delta Sorority. I lived out of two suitcases and traveled the country for a year working with college women, university officials, and advisors on recruitment strategies, risk management, real-estate, fundraising, and community engagement (ask me about some fun travel stories!). After my wild travel year, I moved back to the mid-west area to attend graduate school at Carnegie Mellon University to obtain a Master of Arts Management (MAM) degree through Heinz College. After graduation, I would like to stay and fundraise for college art programs as a gift officer, while still being able to travel the country and raise money for an industry that has taught me so much about myself and the world. 
