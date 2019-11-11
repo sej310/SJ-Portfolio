@@ -1,7 +1,9 @@
 # Critique
 
-Blah Blah Blah
+Original Data Visualization
 
-https://informationisbeautiful.net/visualizations/best-in-show-whats-the-top-data-dog/
+[[https://github.com/sej310/SJ-Portfolio/blob/master/img/octocat.png|alt=octocat]]
 
-https://infobeautiful4.s3.amazonaws.com/2014/11/IIB_Best-In-Show_1276x2.png
+
+
+
