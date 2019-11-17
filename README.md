@@ -5,7 +5,7 @@ This is Sarah Johnson's public portfolio for Telling Stories with Data at Carneg
 
 [Critique by Design Homework 3 & 4](/critbydes.md)
 
-[Final Project](/Final_Project_Sjohnson.md)
+[Final Project](/Final_Project_SJohnson.md)
 
 
 # About Me
