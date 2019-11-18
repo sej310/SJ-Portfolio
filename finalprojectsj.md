@@ -9,6 +9,9 @@ Major project elements I would like to include for my project are to showcase th
 
 # Initial Sketches
 
+![Invitations to Preference](https://drive.google.com/file/d/1rnLaOpdAdYv1d-NPkdxHsUIU-2ZAGTTC/view?usp=sharing)
+
+
 
 
 # Data
