@@ -11,7 +11,11 @@ Major project elements I would like to include for my project are to showcase th
 
 ![Invitations to Preference](https://drive.google.com/file/d/1rnLaOpdAdYv1d-NPkdxHsUIU-2ZAGTTC/view?usp=sharing)
 
+The first graph explores the relationship of the preference round, the final round of all recruitments. This chart shows the three categories of outcomes that could happen to a legacy: invited and accepted, invited and regretted, or she is "released" or not invited to Preference round. I want to show the varience between a legacy's connection (whether its mother, sister, or grandmother) and if she is an out of state or instate woman going through recruitment. My prediction is that you are more likely to be invited and accepted if you are an instate candidiate.
 
+![Regional Competition]
+
+The next graph shows where legacy candidates pledge if they do not pledge Kappa Delta. I'm really curious about the regional strength and preference of other sororities. My prediction is that groups like Chi Omega and Delta Delta Delta are regionally stronger in the southeast where as groups such as Alpha Phi and Gamma Phi Beta have a stronger presence in the West Coast.  
 
 
 # Data
