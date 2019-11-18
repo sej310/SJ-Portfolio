@@ -9,7 +9,7 @@ Major project elements I would like to include for my project are to showcase th
 
 # Initial Sketches
 
-![Invittions to Preference](/Users/sarahjohnson/Desktop/IMG_2294.jpeg)
+![Invitations to Preference](https://user-images.githubusercontent.com/57073608/69018626-3dc26980-097b-11ea-8b22-6d2f59226869.jpeg)
 
 The first graph explores the relationship of the preference round, the final round of all recruitments. This chart shows the three categories of outcomes that could happen to a legacy: invited and accepted, invited and regretted, or she is "released" or not invited to Preference round. I want to show the varience between a legacy's connection (whether its mother, sister, or grandmother) and if she is an out of state or instate woman going through recruitment. My prediction is that you are more likely to be invited and accepted if you are an instate candidiate.
 
