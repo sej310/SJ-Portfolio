@@ -15,8 +15,7 @@ Major project elements I would like to include for my project are ______________
 
 This project contains a unique data source. In order to collect legacy data, information is collected from the recruitment chairs of each chapter and is up to the discression of self reporting on the legacy. 
 
-In the data set, you will see your basic information such as name, status in school, hometown and state, and their legacy connection (whether mother, sister, grandmother, or great grandmother). Towards the middle of the sheet, you have the 
-(https://drive.google.com/file/d/1v9Me29Uc3qswu1SFHU3SZmuPwNWHQopV/view?usp=sharing)
+In the [data set](https://drive.google.com/file/d/1v9Me29Uc3qswu1SFHU3SZmuPwNWHQopV/view?usp=sharing), you will see your basic information such as name, status in school, hometown and state, and their legacy connection (whether mother, sister, grandmother, or great grandmother). Towards the middle of the sheet, you have 3 various types of data collected: a legacy introduction form, number of recommendations, and if a legacy has claimed her status on Campus Director, a popular recruitment registration database. 
 
 
 
