@@ -13,11 +13,15 @@ Major project elements I would like to include for my project are ______________
 
 # Data
 
-This project contains a unique data source. In order to collect legacy data, information is collected from the recruitment chairs of each chapter.  
+This project contains a unique data source. In order to collect legacy data, information is collected from the recruitment chairs of each chapter and is up to the discression of self reporting on the legacy. 
+
+In the data set, you will see your basic information such as name, status in school, hometown and state, and their legacy connection (whether mother, sister, grandmother, or great grandmother). Towards the middle of the sheet, you have the 
 (https://drive.google.com/file/d/1v9Me29Uc3qswu1SFHU3SZmuPwNWHQopV/view?usp=sharing)
 
 
 
 # Method & Medium
 
-I plan to build my story design in Shorthand for the final project. I'm excited to play around within the platform and discover more ways to tell this story through multiple perspectives: from an alumnae view, from a legacy view, and from the chapter view. Because this concept is niche, I will preface before my presentation that this would be a presentation from industry professionals with 5+ years of experience. I am unsure whether or not it would be beneficial to have a vocabulary slide to quickly eliminate the language barrier, however, I aim in my visualization to avoid this at all possible. 
+I plan to build my story design in Shorthand for the final project. I'm excited to play around within the platform and discover more ways to tell this story through multiple perspectives: from an alumnae view, from a legacy view, and from the chapter view. I have some areas that I would like to dig in further such as the likelihood of pledging a chapter based off of your GPA, whether some geographic regions of the country are more friendly to legacies, and whether an alumnae's current chapter status (i.e. inactive, probation, good standing) has an effect on the likeliness of their legacy to be accepted. I would love to also explore through a geographic map to see where legacies are traveling to go to school and whether that affects their chances of pledging Kappa Delta. 
+
+Because this concept is niche, I will preface before my presentation that this would be a presentation from industry professionals with 5+ years of experience. I am unsure whether or not it would be beneficial to have a vocabulary slide to quickly eliminate the language barrier, however, I aim in my visualization to avoid this at all possible. 
