@@ -43,6 +43,11 @@ I started thinking about ways to draft the story and started at the root as to w
 
 
 
-After layout out the initial story board, I wanted to provide some space for thought to make sure all aspects of the story or pieces I wanted to analyze was avaliable. 
+After layout out the initial story board, I wanted to provide some space for thought to make sure all aspects of the story or pieces I wanted to analyze was avaliable. I walked through my wireframe again, making sure that all pieces of the project were captured, and created each graph as I went throughout the storyboard. Below, I have included intitial versions of the graphs before talking with peers about revisions. 
+
+
+   # User Research Protocol
+
+
 
 
