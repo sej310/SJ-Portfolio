@@ -41,7 +41,11 @@ Because this concept is niche, I will preface before my presentation that this w
 
 I started thinking about ways to draft the story and started at the root as to why this informtion was being collected. By starting with the intial introduction as to the why, I was able to follow my stream of consciousness and articulate where my story was going. Listed below is the original storyboard I drew out to collect an initial sketch of where I invisioned the project.
 
+![unnamed](https://user-images.githubusercontent.com/57073608/69509994-0ae31d00-0f09-11ea-8d06-c58d19acaf57.jpg)
 
+![unnamed-1](https://user-images.githubusercontent.com/57073608/69509989-0880c300-0f09-11ea-8a75-2283626a2f89.jpg)
+
+![unnamed-2](https://user-images.githubusercontent.com/57073608/69509991-09b1f000-0f09-11ea-9660-3b3bb107ff24.jpg)
 
 After layout out the initial story board, I wanted to provide some space for thought to make sure all aspects of the story or pieces I wanted to analyze was avaliable. I walked through my wireframe again, making sure that all pieces of the project were captured, and created each graph as I went throughout the storyboard. Below, I have included intitial versions of the graphs before talking with peers about revisions. 
 
