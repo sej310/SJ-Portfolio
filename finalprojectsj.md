@@ -67,6 +67,7 @@ The findings from the interviews were really interesting. My initial hypothesis 
 Some comments were also directed in adding more data columns to help for easier graph overlay. For example, there is a graph that maps the in-state vs. out-of-state legacy connections. One of the interviewees exclaimed that there wasn't a lot of meaning provided to the map. They had suggested adding an extra layer in the data set that I had initially cleaned out, perceieving I wouldn't need it, to add some dementions to create a different map to provide the viewer. This is one area I am going to spend a lot of time focusing on the meaning behind all the graphs, how they connect to one another, and why does my target audience need to know this information. 
 
 
-      
+   # Storyboard Revision
 
+I decided for my revision to really focus on fixing and connecting my graphs to a central theme. I am still not pleased with my graphs, but feel that after this storyboard revision, I can ammend and tweak for the final presentation and deliverable. I feel that since this project is based on connections, I wanted to rework my storyboard to show the connect between the central theme, and each graph. Below I have attached a cleaned version from the feedback given in the review. 
 
