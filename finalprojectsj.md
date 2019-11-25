@@ -39,4 +39,10 @@ Because this concept is niche, I will preface before my presentation that this w
 # Part II
   # Wireframing & Story Board
 
-I started thinking about ways to draft the story and started at the root as to why this informtion was being collected. By starting with the inti
+I started thinking about ways to draft the story and started at the root as to why this informtion was being collected. By starting with the intial introduction as to the why, I was able to follow my stream of consciousness and articulate where my story was going. Listed below is the original storyboard I drew out to collect an initial sketch of where I invisioned the project.
+
+
+
+After layout out the initial story board, I wanted to provide some space for thought to make sure all aspects of the story or pieces I wanted to analyze was avaliable. 
+
+
