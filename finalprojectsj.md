@@ -48,6 +48,21 @@ After layout out the initial story board, I wanted to provide some space for tho
 
    # User Research Protocol
 
+I took a unique approach with my interviews. I was able to interview someone directly in the field, someone who is familiar with the field and the terminology but not an expect, and someone with very little knowledge. Although my audience is geared toward people who are experts in the field, it was really valuable to gather various prospectives on terminology barriers, formatting choices, and significance of certain data points. Although the interview script is a little short, I got some really valuable information from all people I interviewed. 
 
+   Interviw Script:
+      
+   Q1) Does the progression of the story and the story itself reach my intended goals described before?
+   
+   Q2) What is unclear in the story?
+   
+   Q3) What do you think needs improvement?
+   
+   Q4) Do these drafts relay the proper information to tell the story?
+   
+   Q5) What is some of your favorite aspects about the story and what is most interesting to view?
+   
+
+      
 
 
