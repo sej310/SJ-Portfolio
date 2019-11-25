@@ -62,6 +62,10 @@ I took a unique approach with my interviews. I was able to interview someone dir
    
    Q5) What is some of your favorite aspects about the story and what is most interesting to view?
    
+The findings from the interviews were really interesting. My initial hypothesis was that the person I selected that knew very limited knowledge would have a lot of questions about the connection to the story. However, as interviews progressed, it was the individual with semi-experienced knowledge that had the most questions and critique to offer. A common theme that was mentioned consistently throughout the group was that my initial storyboard is painting a sotry about relationships and not about regions. Although regions support the argument, the call to action is more about maintaining transparency of selectivity between the potential new member hoping to join Kappa Delta and their legacy connection (either mother, sister, and grandmother). Another misstep on my part was the formatting of the graph's axis and the importance of labeling them correctly in the data so they can transfer easier over in Tableau.
+
+Some comments were also directed in adding more data columns to help for easier graph overlay. For example, there is a graph that maps the in-state vs. out-of-state legacy connections. One of the interviewees exclaimed that there wasn't a lot of meaning provided to the map. They had suggested adding an extra layer in the data set that I had initially cleaned out, perceieving I wouldn't need it, to add some dementions to create a different map to provide the viewer. This is one area I am going to spend a lot of time focusing on the meaning behind all the graphs, how they connect to one another, and why does my target audience need to know this information. 
+
 
       
 
