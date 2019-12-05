@@ -121,6 +121,12 @@ Another key aspect I wanted to look into further was the relationship between in
 
 # Final Thoughts
 
+One of the biggest cognitive changes I've noticed while creating this work was the color choice consistency I've used for all my graphs. A big contingency I wanted to take care of was ensuring my regions were consistently the same color throughout the presentation. The lectures and exercises really helped train my eye to help position fields in the same spot to help comprehension occur quicker for audience viewers. I also feel that this project is a really great base to start and I am looking forward to developing more graphs, including one of the alluvial graphs from Part I. 
 
+This presentation is focused a lot on three primary factors: legacies by region, types of legacy connections, and whether or not a legacy is from in-state or out-of-state. I feel really accomplished covering these three areas since I felt that this was the most significant storyline. There are other data points that I'm hoping to explore after the course: GPA in relationship to joining Kappa Delta, whether or not a legacy connection's chapter is inactive or is from the same state as the chapter their legacy is trying to join, and whether or not having a recommendation aids your chances of joining the organization. 
+
+Kappa Delta has only begun collecting legacy data information for 2 calendar years accross all 168 chapters nation wide. The information collected from year to year has changed, making the data not comparable for the project. Looking forward as several years are collected, I hope to do a visualization over the past three or five years of the legacy experience within the organization and help aid communication and expectations with alumnae and members of the National Leadership Team. This course has been incredibly invaluable and has taught me several skills I will take with me into my professional and volunteer life. Thank you so much for the opportunity, and hope you enjoy my final project.
+
+Click here to view my final project!
 
 
