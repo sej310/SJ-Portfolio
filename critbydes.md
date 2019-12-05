@@ -1,6 +1,11 @@
 # Critique & Visualization
 
-Original Data Visualization
+[Go to Original Data Visualization](#original-data-visualization)
+
+[Go to Reflection of Visualization Process](#visualization-process-reflection)
+
+
+# Original Data Visualization
 
 ![](https://infobeautiful4.s3.amazonaws.com/2014/11/IIB_Best-In-Show_1276x2.png)
 
