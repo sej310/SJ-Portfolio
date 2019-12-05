@@ -1,6 +1,9 @@
 # Data Visualization Homework #1
 
-[Go to Government Debt by Country](#government-debt-by-country)
+[Go to United Kingdom Debt Before Brexit Visualization](#united-kingdom-debt-before-brexit)
+
+[Go to Government Debt by Country Visualization](#government-debt-by-country)
+
 [Go to Assignment Reflection](#reflection-of-assignment)
 
 # United Kingdom Debt Before Brexit
