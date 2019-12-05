@@ -1,13 +1,13 @@
 # Final Project
 
-[Part-I](# Part I)
+[Part I](#part-i)
 
-[Part-II](# Part II)
+[Part II](#part-ii)
 
-[Part-III](# Part III)
+[Part III](#part-iii)
 
    
-# Part-I   
+# Part I   
    # Outline
 
 I will be visualizing the outcome of Kappa Delta Sorority's legacy data for the Fall 2019 recruitment season. Encompassing over 80 chapters accross 32 states, it is imparative to understand the journey of a legacy to help better articulate to alumnae members the reality of recruitment. For project context, a legacy is a woman who is seeking sorority membership whose sister, mother, or grandmother is a member in good standing from any Kappa Delta chapter. In the Fall 2019 season, 1,274 legacies went through the recruitment process and of those women, 460 joined Kappa Delta. 
@@ -43,7 +43,7 @@ Because this concept is niche, I will preface before my presentation that this w
 
 
 
-# Part-II
+# Part II
   # Wireframing & Story Board
 
 I started thinking about ways to draft the story and started at the root as to why this informtion was being collected. By starting with the intial introduction as to the why, I was able to follow my stream of consciousness and articulate where my story was going. Listed below is the original storyboard I drew out to collect an initial sketch of where I invisioned the project.
@@ -111,4 +111,4 @@ I decided for my revision to really focus on fixing and connecting my graphs to 
 
 
 
-# Part-III
+# Part III
