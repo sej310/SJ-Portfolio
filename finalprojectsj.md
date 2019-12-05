@@ -114,6 +114,13 @@ I decided for my revision to really focus on fixing and connecting my graphs to 
 # Part III
 # Intended Project Audience
 
-To find this presentation topic, I took a little different approach than most classmates. I volunteer for Kappa Delta Sorority as a Chapter Memmbership Specialist, and emailed our National Vice President-Membership asking her for data visualization projects. The intended audience for the presentation is Kappa Delta's National Vice President-Membership along with her executive membership team. They will be able to utilize this information to help craft strategy with the other  
+To find this presentation topic, I took a little different approach than most classmates. I volunteer for Kappa Delta Sorority as a Chapter Memmbership Specialist, and emailed our National Vice President-Membership asking her for data visualization projects. The intended audience for the presentation is Kappa Delta's National Vice President-Membership along with her executive membership team. They will be able to utilize this information to help craft strategy with the other membership officers to help prepare chapters throughout the legacy release process, how to maintain strong relationships with alumnae, and provide a fair and equitable experience for those women that are considered legacies. In the early stages of the planning process, I was very focused on the idea of our division structure for Kappa Delta and how to best represent that. The tricky thing is that the organization's division structure does not follow a regional model, so showing patterns and trends that wern't grouped by region was interesting, but really hard to paint the full picture as to how regionality affects the legacy process. I knew this was an area to look in, and was given direction by my intended audience to explore this further in my visualizations. Between Part II to Part III, I made the decision to group regionally as oppose to division and made the entire process run a little smoother and began to see more overarching trends in the data set. 
+
+Another key aspect I wanted to look into further was the relationship between in-state and out-of-state legacies. The organization's National VP-Membership had a theory that preference is given to in-state legacies since they have the ability to get to know members of the chapter easier than out-of-state legacies. It was another great point to dive in deeper into because although that was true, it wasn't a consistent truth accross regions or accross the type of legacy connection. I'm really energized to continue tweaking with graphs to best display this story to the rest of the executive membership team.
+
+
+# Final Thoughts
+
+
 
 
