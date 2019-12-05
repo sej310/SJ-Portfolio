@@ -127,6 +127,6 @@ This presentation is focused a lot on three primary factors: legacies by region,
 
 Kappa Delta has only begun collecting legacy data information for 2 calendar years accross all 168 chapters nation wide. The information collected from year to year has changed, making the data not comparable for the project. Looking forward as several years are collected, I hope to do a visualization over the past three or five years of the legacy experience within the organization and help aid communication and expectations with alumnae and members of the National Leadership Team. This course has been incredibly invaluable and has taught me several skills I will take with me into my professional and volunteer life. Thank you so much for the opportunity, and hope you enjoy my final project.
 
-Click here to view my final project!
+[Click here to view my final project!](https://carnegiemellon.shorthandstories.com/the-state-of-legacies/index.html)
 
 
