@@ -4,6 +4,8 @@
 
 [Go to Government Debt by Country Visualization](#government-debt-by-country)
 
+[Go to Government Debt Increase](#government-debt-increase-since-1996)
+
 [Go to Assignment Reflection](#reflection-of-assignment)
 
 # United Kingdom Debt Before Brexit
